@@ -9,7 +9,7 @@ double Divisor=10000;
 
 int main(){
 
-	cout<<"ingrese la posibilidad de que algo suceda (en %)"<<endl;
+	cout<<"Debo ir actualizando estas apps"<<endl;
 		cout<<"Posibilidad de que pase :   ";cin>>A; 
 			cout<<endl;
 	
