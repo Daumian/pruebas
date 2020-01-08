@@ -1,0 +1,11 @@
+commit 1ad46083b745cf2293c8bcd76144d22f70191c0f
+Author: Daumian Ruiz <daumianruiz@gmail.com>
+Date:   Wed Jan 8 11:21:16 2020 -0300
+
+    Puse un insulto xDDD soy re gracioso
+
+commit 41408e0ce988ca7a78d21b7b2ce6fb132ac8f8ec
+Author: Daumian Ruiz <daumianruiz@gmail.com>
+Date:   Tue Jan 7 15:39:05 2020 -0300
+
+    iniciamos
